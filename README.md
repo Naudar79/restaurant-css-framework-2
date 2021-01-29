@@ -82,3 +82,5 @@ The contact page has used per the customer to contact the restaurant. He can use
  - https://www.w3schools.com/bootstrap4/default.asp
  - https://getbootstrap.com/
  - https://developer.mozilla.org/en-US/docs/Glossary/Bootstrap
+ 
+ PS : original sources into restaurant-css-framework.
